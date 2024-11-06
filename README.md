@@ -53,17 +53,21 @@ By achieving these goals, the project will provide insights into global and regi
 Through our market analysis, we have gained valuable insights into the global and regional trends in digital fitness searches. Here are the key findings based on the analysis:
 
 1. Peak Global Interest in 'Workout'
+   
 The global search for 'workout' reached its peak in the year 2020. This surge in interest can be attributed to the COVID-19 pandemic, during which many individuals turned to online and at-home fitness solutions due to lockdowns and gym closures.
 
 2. Keyword Popularity During and Post-COVID
+   
 Most Popular Keyword During COVID: The keyword 'home_workout_worldwide' was the most popular during the COVID-19 pandemic. This reflects the shift towards at-home fitness routines as people adapted to the constraints of the pandemic.
 
 Most Popular Keyword Currently: As of now, the keyword 'gym_workout_worldwide' is the most popular. This indicates a return to gym-based workouts as restrictions have eased and gyms have reopened.
 
 3. Country with the Highest Interest in Workouts
+   
 Among the countries analyzed (United States, Australia, and Japan), the United States has the highest interest in workouts. This suggests a robust market for fitness-related products and services in the U.S.
 
 4. Highest Interest in Home Workouts: Philippines vs. Malaysia
+   
 Between the Philippines and Malaysia, the Philippines shows a higher interest in home workouts. This insight can guide targeted marketing and product development efforts in the Philippines to cater to the demand for home fitness solutions.
 
 This analysis provides a comprehensive understanding of the current and historical trends in digital fitness searches. The findings can help fitness studios and product managers identify potential areas for growth, tailor their marketing strategies, and develop products that meet the evolving needs of fitness enthusiasts worldwide.
